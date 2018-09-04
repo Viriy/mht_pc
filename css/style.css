@@ -2,6 +2,8 @@
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{line-height:initial}
 .btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus{outline:none}
 .btn.focus, .btn:focus, .btn:hover{color:#fff}
+
+article{width: 1920px;position: relative;left: 50%;margin-left: -960px}
 /*top*/
 header{background:#121a37;position:relative}
 header,header .w1240{height:78px}

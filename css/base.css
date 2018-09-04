@@ -2,7 +2,7 @@
 
 .clearfix,.news_left a,.news_right a,.f_addr p,.news_list a{zoom:1}.clearfix:after,.news_left a:after,.news_right a:after,.f_addr p:after,.news_list a:after{visibility:hidden;display:block;clear:both;height:0;font-size:0;content:"."}img{-ms-interpolation-mode:bicubic;vertical-align:top;border:0}.fl,.f4 .con_wrap .img,.f6 .con_wrap a,.news_list .img,.news_list a,.expert_list a,.expert_order li,.ex_info img,.chat_wrap .l_con img,.qu_wrap .type_wrap a,.video_list li,.trace_list a{float:left;display:inline;*zoom:1}.fr,.chat_wrap .r_con img{float:right !important;display:inline}.tl,.f4 .news_left .txt_wrap p{text-align:left}.tc{text-align:center}.tr,.chat_wrap .r_con h6{text-align:right}table{border-collapse:collapse;border-spacing:0}.pr,.trace_list a,label{position:relative}.pa{position:absolute}.hide{display:none}.db{display:block !important}.cleardis{margin:0 !important}.clearbor{border:0 !important}textarea{resize:vertical}pre{word-wrap:break-word}
 
-section,.c_1200{margin:0 auto;width:1200px;position: relative;left: 50%;margin-left: -600px}
+section,.c_1200{width:1200px;position: relative;left: 50%;margin-left: -600px}
 .center{position: relative;left: 50%;margin-left: -960px;width: 1920px;height: 320px;max-width: 1920px}
 .bold,.news_head h3{font-weight:700}
 a:hover{text-decoration:none}
