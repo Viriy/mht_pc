@@ -5,7 +5,7 @@
 /*top*/
 header{background:#121a37;position:relative}
 header,header .w1240{height:78px}
-header .w1240{width:1240px}
+header .w1240{width:1240px;position: relative;left: 50%;margin-left: -620px}
 header,.t_nav a{color:#fff}
 header .logo{width:230px;height:78px;background:url('../images/t_logo.png') 50% no-repeat;margin-right:50px}
 
