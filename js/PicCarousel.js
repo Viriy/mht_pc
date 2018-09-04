@@ -255,8 +255,8 @@
 	$.fn.PicCarousel.defaults = {
 		"width":1080,		//幻灯片的宽度
 		"height":390,		//幻灯片的高度
-		"posterWidth":528,	//幻灯片第一帧的宽度
-		"posterHeight":390, //幻灯片第一张的高度
+		"posterWidth":360,	//幻灯片第一帧的宽度
+		"posterHeight":360, //幻灯片第一张的高度
 		"scale":0.8,		//记录显示比例关系
 		"speed":500,		//记录幻灯片滚动速度
 		"autoPlay":true,	//是否开启自动播放

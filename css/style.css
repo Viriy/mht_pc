@@ -27,7 +27,7 @@ header a.f18{line-height:78px;padding:0 20px}
 .t_nav .on h1 a,.t_nav .sub_nav a:hover{color:#1981f3}
 
 /*banner*/
-.bar_wrap{height:500px;overflow:hidden;z-index:99;width:1920px;left:50%;margin-left:-960px;}
+.bar_wrap{height:500px;overflow:hidden;z-index:99}
 .bar_wrap li{position:relative}
 .bar_wrap .circle{width:392px;height:387px;top:56px;left:50%;margin-left:-618px;-webkit-animation:rotate 1.6s infinite linear;-moz-animation:rotate 1.6s infinite linear;-ms-animation:rotate 1.6s infinite linear;-o-animation:rotate 1.6s infinite linear;animation:rotate 1.6s infinite linear}
 .bar_wrap .kiwi{width:456px;height:281px;top:118px;left:50%;margin-left:-638px}
@@ -197,8 +197,8 @@ footer a:hover,.f_addr:hover{transform:translateY(-10px)}
 .site_wrap b{color:#bbb}
 .site_wrap a,.site_wrap em{padding:0 10px}
 
-.row_nav{padding:20px 0;border-bottom:1px solid #ddd}
-.row_nav a{line-height:42px;position:relative;padding:0 36px;z-index:5}
+.row_nav{border-bottom:1px solid #ddd}
+.row_nav a{line-height:42px;position:relative;padding:20px 36px;z-index:5}
 .row_nav .back i{width:21px;height:42px;top:0}
 .row_nav .i_l{left:-21px;background:url(../images/tab_active_left.jpg) 50% no-repeat}
 .row_nav .i_r{right:-21px;background:url(../images/tab_active_right.jpg) 50% no-repeat}
